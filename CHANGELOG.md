@@ -9,6 +9,17 @@ This project follows:
 
 ---
 
+## [0.1.1] - 2026-05-24
+
+### Changed
+
+- Updated `github.com/netlifeguru/db` dependency from `v0.1.0` to `v0.1.1`.
+
+### Fixed
+
+- Fixed `TestSelectSQL` to use the correct `db.DialectSQL` field name `Postgres` instead of `Postgresql`.
+- Verified MySQL dialect SQL selection returns the MySQL query variant.
+
 ## [0.1.0] - 2026-05-23
 
 ### Added

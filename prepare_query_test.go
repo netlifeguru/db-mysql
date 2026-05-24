@@ -327,9 +327,9 @@ func TestSelectSQL(t *testing.T) {
 	c := &Connect{}
 
 	got := c.SelectSQL(db.DialectSQL{
-		Postgresql: "select $1",
-		Mysql:      "select ?",
-		Scylla:     "select scylla",
+		Postgres: "select $1",
+		Mysql:    "select ?",
+		Scylla:   "select scylla",
 	})
 
 	if got != "select ?" {
