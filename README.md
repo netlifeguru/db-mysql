@@ -142,7 +142,7 @@ Please read [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) before contributing or pa
 
 Created and maintained by [NetLife Guru s.r.o.](https://netlife.guru)
 
-- Documentation: [https://netlife.guru/docs/go/mysql](https://netlife.guru/docs/go/mysql)
+- Documentation: [https://netlife.guru/docs/go/db/getting-started/installation#mysql](https://netlife.guru/docs/go/db/getting-started/installation#mysql)
 - GitHub: [https://github.com/netlifeguru](https://github.com/netlifeguru)
 - Contact: [info@netlife.guru](mailto:info@netlife.guru)
 
