@@ -21,11 +21,11 @@ Application code normally imports this package to open MySQL connections, while 
 
 ## How It Fits Together
 
-| Layer  | Package                         | Purpose                         |
-|--------|---------------------------------|---------------------------------|
-| Mapper | `github.com/netlifeguru/mapper` | Row-to-struct and map scanning  |
-| DB     | `github.com/netlifeguru/db`     | Shared query and repository API |
-| Driver | `github.com/netlifeguru/db-mysql`  | Real MySQL database connections |
+| Layer  | Package                           | Purpose                         |
+|--------|-----------------------------------|---------------------------------|
+| Mapper | `github.com/netlifeguru/mapper`   | Row-to-struct and map scanning  |
+| DB     | `github.com/netlifeguru/db`       | Shared query and repository API |
+| Driver | `github.com/netlifeguru/db-mysql` | Real MySQL database connections |
 
 ## Features
 
@@ -118,7 +118,7 @@ API reference is also available on pkg.go.dev:
 
 This project follows Semantic Versioning.
 
-See [`CHANGELOG.md`](./CHANGELOG.md) for release history and breaking changes.
+See [`CHANGELOG.md`](CHANGELOG.md) for release history and breaking changes.
 
 ---
 
@@ -134,7 +134,7 @@ Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before submitting pull reques
 
 This project follows a Code of Conduct.
 
-Please read [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) before contributing or participating in discussions.
+Please read [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) before contributing or participating in discussions.
 
 ---
 
@@ -150,4 +150,4 @@ Created and maintained by [NetLife Guru s.r.o.](https://netlife.guru)
 
 ## License
 
-MIT License. See [`LICENSE`](./LICENSE).
+MIT License. See [`LICENSE`](LICENSE).

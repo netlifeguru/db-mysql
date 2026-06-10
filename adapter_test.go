@@ -134,7 +134,7 @@ func (fakeConn) Begin() (driver.Tx, error) {
 
 type fakeStmt struct{}
 
-func (fakeStmt) Close() error { return nil }
+func (fakeStmt) Close() error  { return nil }
 func (fakeStmt) NumInput() int { return -1 }
 
 func (fakeStmt) Exec(args []driver.Value) (driver.Result, error) {
