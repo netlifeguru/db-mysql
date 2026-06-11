@@ -9,6 +9,13 @@ This project follows:
 
 ---
 
+## [0.1.2] - 2026-06-11
+
+### Changed
+
+- Updated `github.com/netlifeguru/db` dependency from `v0.1.1` to `v0.1.3`.
+- Updated indirect dependencies in `go.sum` to match the new shared database package version.
+
 ## [0.1.1] - 2026-05-24
 
 ### Changed

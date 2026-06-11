@@ -4,5 +4,7 @@ github.com/go-sql-driver/mysql v1.10.0 h1:Q+1LV8DkHJvSYAdR83XzuhDaTykuDx0l6fkXxo
 github.com/go-sql-driver/mysql v1.10.0/go.mod h1:M+cqaI7+xxXGG9swrdeUIoPG3Y3KCkF0pZej+SK+nWk=
 github.com/netlifeguru/db v0.1.1 h1:ZzyTF9Mb6oQemSD2gqH93HVphKTZeeUFj4GMozOgiBM=
 github.com/netlifeguru/db v0.1.1/go.mod h1:IJXmFVM7KgV1p8RqJRVgQPfbTlKe8apor7z1jNBqq/I=
+github.com/netlifeguru/db v0.1.3 h1:Blg8+7Dxm7AN5HHVRNm/qCPRTU66G1EJX88bx2wbzik=
+github.com/netlifeguru/db v0.1.3/go.mod h1:IJXmFVM7KgV1p8RqJRVgQPfbTlKe8apor7z1jNBqq/I=
 github.com/netlifeguru/mapper v0.1.0 h1:RpqZfrV/DWOva1sJyZUcm83W6Lv0ftzjlNavarguoDo=
 github.com/netlifeguru/mapper v0.1.0/go.mod h1:18IrxQifTTfYW4YlS0gKcRCPF93NxGvqg0eMq2bV5ds=
